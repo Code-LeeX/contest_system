@@ -6,3 +6,5 @@ web答题系统-react+express+mysql
 2. client\qa-system\src\api\request.js第4行
 3. client\qa-system\src\pages\AddQuestion.jsx 第19行
 4. client\qa-system\src\pages\Changecontest.jsx 第14行
+
+后端创建数据库，导表，改/server/usedatabase.js 中数据库的配置
