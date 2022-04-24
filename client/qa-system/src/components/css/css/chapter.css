@@ -1,0 +1,8 @@
+.chcd .chbutton {
+  margin-top: 20px;
+  opacity: 0;
+  transition: opacity 0.35s ease-in 0s;
+}
+.chcd:hover .chbutton {
+  opacity: 1;
+}

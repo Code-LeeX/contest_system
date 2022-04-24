@@ -1,0 +1,10 @@
+.finishedList_box {
+    overflow:scroll;
+    height: 450px;
+}
+
+.finished_list {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,22 @@
+.exercise_page_box {
+    height: 100%;
+}
+.exercise_page_box .qsttitle {
+    position: relative;
+    height: 100px;
+    width: 500px;
+    margin:10px auto;
+    text-align: center;
+    font-weight: 500;
+    font-size:20px;
+}
+
+.exercise_page_box .to_last_question {
+    margin-top: 150px;
+}
+.exercise_page_box .to_next_question {
+    margin-top: 150px;
+}
+.exercise_page_box .qstopts {
+    margin-bottom: 100px;
+}
